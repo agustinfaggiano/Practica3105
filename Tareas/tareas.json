@@ -23,5 +23,10 @@
   "codigo": 23,
   "titulo": "Ser prolijo",
   "estado": "Terminada"
+ },
+ {
+  "codigo": 322,
+  "titulo": "Practicar GIT",
+  "estado": "En progreso"
  }
 ]

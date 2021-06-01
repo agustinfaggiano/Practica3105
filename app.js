@@ -9,9 +9,10 @@ let tareaParaAgregar = {
 
 guardarNuevaTarea(tareasTraidas,tareaParaAgregar);
 
-//tareasTraidas = borrarTarea(tareasTraidas,4);
-//listarTareas(tareasTraidas);
+//tareasTraidas = borrarTarea(tareasTraidas,322);
+
+listarTareas(tareasTraidas);
 let tareasFiltr = filtrarPorEstado(tareasTraidas, "Terminada");
-listarTareas(tareasFiltr); //muestro las tareas filtradas
+//listarTareas(tareasFiltr); //muestro las tareas filtradas
 
 
