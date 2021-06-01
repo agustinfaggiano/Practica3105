@@ -2,12 +2,12 @@ let tareasTraidas = require('./Tareas/tareas.json');
 let {listarTareas, guardarNuevaTarea, borrarTarea, filtrarPorEstado }= require('./Funciones/funcionesDeTareas');
 
 let tareaParaAgregar = {
-    codigo: 23,
-    titulo: "Ser prolijo",
-    estado: "Terminada"
+    codigo: 322,
+    titulo: "Practicar GIT",
+    estado: "En progreso"
 };
 
-//guardarNuevaTarea(tareasTraidas,tareaParaAgregar);
+guardarNuevaTarea(tareasTraidas,tareaParaAgregar);
 
 //tareasTraidas = borrarTarea(tareasTraidas,4);
 //listarTareas(tareasTraidas);
