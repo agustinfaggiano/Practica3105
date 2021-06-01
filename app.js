@@ -4,7 +4,7 @@ let {listarTareas, guardarNuevaTarea, borrarTarea, filtrarPorEstado }= require('
 let tareaParaAgregar = {
     codigo: 322,
     titulo: "Practicar GIT",
-    estado: "En progreso"
+    estado: "Terminada"
 };
 
 guardarNuevaTarea(tareasTraidas,tareaParaAgregar);
