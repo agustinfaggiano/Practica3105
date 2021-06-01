@@ -1,0 +1,27 @@
+[
+ {
+  "codigo": 1,
+  "titulo": "Practicar Json",
+  "estado": "En progreso"
+ },
+ {
+  "codigo": 2,
+  "titulo": "Cargar Bateria",
+  "estado": "Terminada"
+ },
+ {
+  "codigo": 3,
+  "titulo": "Crear Modulo de Tareas",
+  "estado": "Pendiente"
+ },
+ {
+  "codigo": 5,
+  "titulo": "Practicar Javascript",
+  "estado": "Terminada"
+ },
+ {
+  "codigo": 23,
+  "titulo": "Ser prolijo",
+  "estado": "Terminada"
+ }
+]
